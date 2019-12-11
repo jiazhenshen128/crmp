@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: benford-py
+Version: 0.1.0.3
+Summary: A library for testing data sets with Bendford's Law
+Home-page: https://github.com/milcent/benford_py
+Author: Marcel Milcent
+Author-email: marcelmilcent@gmail.com
+License: GPLv3.0
+Download-URL: https://github.com/milcent/benford_py/archive/v.0.1.0.3.tar.gz
+Description: UNKNOWN
+Platform: UNKNOWN
